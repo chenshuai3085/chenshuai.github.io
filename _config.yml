@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Shuai (任意)"
-description              : "Focusing on robotic and Embodied Ai."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Shuai Chen"
+description              : "A researcher focusing on Embodied AI, Vision-Language-Action models, and World Models."
+repository               : "chenshuai3085/chenshuai.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      :
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : ""
-  location         : "Singapore"
+  name             : "Shuai Chen"
+  avatar           : "images/chenshuai.jpg"
+  bio              : "M.S. Student at ShanghaiTech University & SITP, CAS"
+  location         : "Shanghai, China"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : # "https://scholar.google.com/citations?user=XXXXX"
+  email            : "chenshuai2024@shanghaitech.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "chenshuai3085"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         :
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -65,12 +65,16 @@ include:
   - _pages
   - files
 exclude:
+  - docs
+  - google_scholar_crawler
+  - github_myprofile_updater
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -88,8 +92,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google_scholar_crawler
-  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
