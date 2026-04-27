@@ -88,9 +88,9 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 # 💻 Internships
 - *2026.03 - Present*, Embodied Intelligence Algorithm Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi Robotics](https://www.mi.com/), Beijing, China.
   - Research on tactile sensing for robotic manipulation policies.
-- *2025.09 - 2026.03*, Research Assistant, [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangzhou, China.
+- *2025.09 - 2026.01*, Research Assistant, [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangzhou, China.
   - Embodied intelligence research. Contributed to Fast-dVLA and FRAPPE projects involving VLA model acceleration and world modeling.
-- *2025.01 - 2026.03*, Embodied Intelligence Algorithm Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
+- *2025.12 - 2026.02*, Embodied Intelligence Algorithm Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
   - Dual-arm robot manipulation using GR00T/π₀ policy models for industrial pick-and-place tasks. Built end-to-end pipelines from training to real-robot deployment on Realman and AgileX platforms.
 
 
