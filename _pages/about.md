@@ -83,6 +83,13 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 </div>
 
 
+# 💻 Internships
+- *2026.03 - Present*, Research Intern, [Xiaomi](https://www.mi.com/) <img src='./images/xiaomi_logo.svg' style="width: 4em;">, Beijing, China.
+  - Working on embodied intelligence and robot learning in Xiaomi's Robotics Lab.
+- *2025.01 - 2026.03*, Research Intern, [COWAROBOT](https://www.cowarobot.com/) <img src='./images/cowarobot_logo.png' style="width: 1.5em;">, Shanghai, China.
+  - Focused on autonomous driving and robotic perception systems.
+
+
 # 📖 Educations
 - *2024.09 - 2027.06 (Expected)*, M.S. in Electronic Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) & [Shanghai Institute of Technical Physics, CAS](http://www.sitp.ac.cn/), Shanghai, China.
 - *2019.09 - 2023.06*, B.E., [Nantong University](https://www.ntu.edu.cn/), Nantong, China.
@@ -96,5 +103,3 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 - *20XX.XX*, Talk Title  -->
 
 
-<!-- # 💻 Internships
-- *20XX.XX - 20XX.XX*, Company, City.  -->
