@@ -84,10 +84,10 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 
 
 # 💻 Internships
-- *2026.03 - Present*, Research Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi](https://www.mi.com/), Beijing, China.
-  - Working on embodied intelligence and robot learning in Xiaomi's Robotics Lab.
-- *2025.01 - 2026.03*, Research Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
-  - Focused on autonomous driving and robotic perception systems.
+- *2026.03 - Present*, Embodied Intelligence Algorithm Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi Robotics](https://www.mi.com/), Beijing, China.
+  - Research on tactile sensing for robotic manipulation policies.
+- *2025.01 - 2026.03*, Embodied Intelligence Algorithm Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
+  - Training and real-robot deployment of Vision-Language-Action (VLA) models for manipulation.
 
 
 # 📖 Educations
