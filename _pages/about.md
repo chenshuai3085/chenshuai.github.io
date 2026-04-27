@@ -50,7 +50,7 @@ Wenxuan Song\*, Jiayi Chen\*, **Shuai Chen\***, Jingbo Wang, Pengxiang Ding, Han
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/dfm-vla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Submitted)</div><img src='images/dfm-vla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching](https://arxiv.org/abs/2603.26320)
