@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Shanghai Institute of Technical Physics (SITP), Chinese Academy of Sciences](http://www.sitp.ac.cn/), advised by [Prof. Shengli Sun](http://www.sitp.ac.cn/) (Academician of CAS). I also served as a Research Assistant at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/). Prior to this, I received my Bachelor's degree from [Nantong University](https://www.ntu.edu.cn/) in 2023, ranked **1st/45** in my cohort.
-
+I am a Master's student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Shanghai Institute of Technical Physics (SITP), Chinese Academy of Sciences](http://www.sitp.ac.cn/), advised by [Prof. Shengli Sun](http://www.sitp.ac.cn/) (Academician of CAS). I also served as a Research Assistant at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/).
 My research focuses on **Embodied Intelligence**, particularly on building intelligent robotic systems that can perceive, reason, and act in the physical world. I am interested in:
 - **Vision-Language-Action (VLA) Models**: efficient discrete diffusion and flow matching approaches for robotic action generation
 - **World Models**: representation alignment for world-aware generalist policies
@@ -101,8 +100,6 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 # 📖 Educations
 - *2024.09 - 2027.06 (Expected)*, M.S. in Electronic Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) & [Shanghai Institute of Technical Physics, CAS](http://www.sitp.ac.cn/), Shanghai.
   - Advisor: Prof. Shengli Sun (Academician of CAS)
-- *2019.09 - 2023.06*, B.E. in Measurement & Control Technology, [Nantong University](https://www.ntu.edu.cn/), Nantong.
-  - **Ranked 1st/45**. 7 national awards, 6 provincial awards. Led Jiangsu Province Innovation Training Project.
 
 
 # 🎖 Honors and Awards
