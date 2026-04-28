@@ -28,8 +28,9 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 
 # 🔥 News
-- *2026.04*: Two papers submitted to **ECCV 2026** (Fast-dVLA, DFM-VLA) and one to **RSS 2026** (FRAPPE)!
+- *2026.04*: Two papers (Fast-dVLA, DFM-VLA) submitted to **ECCV 2026**!
 - *2026.03*: Joined <img src='./images/xiaomi_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Xiaomi Robotics** as an Embodied Intelligence Algorithm Intern.
+- *2026.01*: One paper (FRAPPE) submitted to **RSS 2026**!
 - *2025.09*: Started as a Research Assistant at **HKUST (Guangzhou)**.
 - *2024.09*: Started M.S. at ShanghaiTech University & SITP, CAS.
 
@@ -105,19 +106,20 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 
 
 # 🎖 Honors and Awards
-
-**National Awards**
 - *2021* **National 1st Prize**, the 9th National College Students Mechanical Innovation Design Competition
 - *2021* **National Special Prize**, the 14th Digital Mathematical Modeling Competition (Ranked 3/1289, 1st Author)
 - *2023* National 2nd Prize, the 16th China College Students Computer Design Competition (1st Author)
-- *2020* National 2nd Prize, China Engineering Robot Competition (1st Author)
 - *2021* National 2nd Prize, the 16th China Computer Game Competition (1st Author)
-
-**Provincial Awards**
+- *2020* National 2nd Prize, China Engineering Robot Competition (1st Author)
 - *2021* Provincial 1st Prize, National College Students Engineering Capability Competition, Jiangsu (1st Author)
 - *2021* Provincial 1st Prize, Mathematics Modeling Competition, Jiangsu (1st Author)
 - *2021* Provincial 1st Prize, the 6th Jiangsu Smart Instrument Competition (1st Author)
 
 
 # 📄 Patents
-- Granted **6 Chinese invention patents**, multiple as first author, covering intelligent data analysis, embedded face detection, robotic assistive devices, and autonomous logistics systems.
+- Embedded Machine Learning-based Intelligent Data Analysis and Processing System (ZL 2021 10675140.9, **1st Author**, Granted)
+- Intelligent Health Detection and Epidemic Prevention Security Gate (CN202011059276.9, **1st Author**, Granted)
+- Embedded Intelligent Face Detection and Tracking System (ZL 2021 10555455.X, 2nd Author, Granted)
+- Automatic Welding Rod Loading Device (ZL 2021 1 066710.3, 3rd Author, Granted)
+- Unmanned Logistics Terminal Delivery Vehicle and Control Method (ZL 2021 10287052.1, 3rd Author, Granted)
+- Assistive Standing and Toilet Chair for the Elderly (ZL 2020 10804078.4, 3rd Author, Granted)
