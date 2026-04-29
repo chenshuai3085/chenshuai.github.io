@@ -97,10 +97,6 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
   - Contributed to Fast-dVLA and FRAPPE projects on VLA acceleration and world modeling.
 
 
-# 📖 Educations
-- *2024.09 - 2027.06 (Expected)*, M.S. in Electronic Science and Technology, [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) & [Shanghai Institute of Technical Physics, CAS](http://www.sitp.ac.cn/), Shanghai.
-  - Advisor: Prof. Shengli Sun (Academician of CAS)
-
 
 # 🎖 Honors and Awards
 - *2021* **National 1st Prize**, the 9th National College Students Mechanical Innovation Design Competition
