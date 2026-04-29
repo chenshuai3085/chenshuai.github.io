@@ -18,10 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Master's student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Shanghai Institute of Technical Physics (SITP), Chinese Academy of Sciences](http://www.sitp.ac.cn/), advised by [Prof. Shengli Sun](http://www.sitp.ac.cn/) (Academician of CAS). I also served as a Research Assistant at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/).
-My research focuses on **Embodied Intelligence**, particularly on building intelligent robotic systems that can perceive, reason, and act in the physical world. I am interested in:
-- **Vision-Language-Action (VLA) Models**: efficient discrete diffusion and flow matching approaches for robotic action generation
-- **World Models**: representation alignment for world-aware generalist policies
-- **Real-Robot Deployment**: bridging sim-to-real transfer for manipulation tasks
+My research focuses on **Embodied Intelligence**, particularly on building intelligent robotic systems that can perceive, reason, and act in the physical world. My current interests span **Vision-Language-Action (VLA) models**, **world models**, and **tactile-based manipulation**, with an emphasis on efficient action generation (e.g., discrete diffusion, flow matching) and generalizable robotic policies.
 
 If you are interested in collaborating, please feel free to email me at [chenshuai2024@shanghaitech.edu.cn](mailto:chenshuai2024@shanghaitech.edu.cn).
 
