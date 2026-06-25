@@ -24,6 +24,8 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 
 # 🔥 News
+- *2026.06*: One paper (Fast-dVLA) accepted by **ECCV 2026**!
+- *2026.05*: One paper (PACE) submitted to **CoRL 2026**!
 - *2026.04*: Two papers (Fast-dVLA, DFM-VLA) submitted to **ECCV 2026**!
 - *2026.03*: Joined <img src='./images/xiaomi_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Xiaomi Robotics** as an Embodied Intelligence Algorithm Intern.
 - *2026.01*: One paper (FRAPPE) submitted to **RSS 2026**!
@@ -33,7 +35,7 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Submitted)</div><img src='images/fast-dvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/fast-dvla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance](https://arxiv.org/abs/2603.25661)
@@ -47,6 +49,21 @@ Wenxuan Song\*, Jiayi Chen\*, **Shuai Chen\***, Jingbo Wang, Pengxiang Ding, Han
 - First breakthrough in accelerating discrete diffusion VLAs to **real-time** (**2.8x–4.1x** speedup, up to **402 Tokens/s**).
 - Novel block-wise causal attention and pipelined parallel decoding for inter-block parallelism.
 - Validated on CALVIN, LIBERO, and SIMPLER benchmarks with preserved action performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026 (Submitted)</div><img src='images/pace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies](assets/papers/PACE_v10.pdf)
+
+Zhiyuan Chen, Shixiong Xu, **Shuai Chen**, You Yangwei
+
+[**Project**](https://pace-insertion.github.io/) \| [**Paper**](assets/papers/PACE_v10.pdf)
+
+- Proposes temporal-role tactile conditioning for contact-rich chunk-based insertion policies.
+- Separates tactile feedback into contact-state conditioning, contact-event correction, and contact-consequence prediction.
+- Achieves **90.7% average success** across five real-robot insertion tasks and strong results under 0.1-mm clearance.
 </div>
 </div>
 

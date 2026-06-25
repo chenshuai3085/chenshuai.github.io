@@ -1,0 +1,5 @@
+2026-06-25 21:17 CST
+- 更新个人主页 Publications：新增 PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies，作者按 Zhiyuan Chen, Shixiong Xu, Shuai Chen, You Yangwei 展示，并链接本地 PDF 与项目页。
+- 新增 PACE 论文 PDF 到 assets/papers/PACE_v10.pdf，新增论文卡片预览图 images/pace.png。
+- 更新 News：新增 2026.06 Fast-dVLA accepted by ECCV 2026，新增 2026.05 PACE submitted to CoRL 2026。
+- 将 Fast-dVLA 论文卡片 badge 从 ECCV 2026 (Submitted) 更新为 ECCV 2026。
