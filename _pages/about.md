@@ -24,6 +24,7 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 
 # 🔥 News
+- *2026.09*: Joined **Sharpa** to work on multimodal visuo-tactile foundation models for dexterous manipulation.
 - *2026.06*: One paper (Fast-dVLA) accepted by **ECCV 2026**!
 - *2026.05*: One paper (PACE) submitted to **CoRL 2026**!
 - *2026.04*: Two papers (Fast-dVLA, DFM-VLA) submitted to **ECCV 2026**!
@@ -103,8 +104,10 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 
 
 # 💻 Internships
-- *2026.03 - Present*, Embodied Intelligence Algorithm Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi Robotics](https://www.mi.com/), Beijing, China.
+- *2026.03.10 - 2026.09.10*, Embodied Intelligence Algorithm Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi Robotics](https://www.mi.com/), Beijing, China.
   - Research on tactile sensing for robotic manipulation policies.
+- *2026.09 - Present*, Embodied Intelligence Research Intern, **Sharpa**, Shanghai, China.
+  - Research and development of multimodal visuo-tactile foundation models for dexterous manipulation.
 - *2025.12 - 2026.02*, Embodied Intelligence Algorithm Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
   - Dual-arm robot manipulation with GR00T/π₀ policy models. End-to-end pipeline from training to real-robot deployment on Realman and AgileX platforms.
 - *2025.09 - 2026.01*, Research Assistant, [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), Guangzhou, China.
