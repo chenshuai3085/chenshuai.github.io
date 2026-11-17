@@ -18,15 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Master's student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Shanghai Institute of Technical Physics (SITP), Chinese Academy of Sciences](http://www.sitp.ac.cn/), advised by [Prof. Shengli Sun](http://www.sitp.ac.cn/) (Academician of CAS). I also served as a Research Assistant at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/).
+I am currently an **Embodied Intelligence Research Intern at [Sharpa](https://www.sharpa.com/)**, working on visuo-tactile representations and robot foundation-model training.
+
 My research focuses on **Embodied Intelligence**, particularly on building intelligent robotic systems that can perceive, reason, and act in the physical world. My current interests span **Vision-Language-Action (VLA) models**, **world models**, and **tactile-based manipulation**, with an emphasis on efficient action generation (e.g., discrete diffusion, flow matching) and generalizable robotic policies.
 
 If you are interested in collaborating, please feel free to email me at [chenshuai2024@shanghaitech.edu.cn](mailto:chenshuai2024@shanghaitech.edu.cn).
 
 
 # 🔥 News
-- *2026.09*: Joined <img src='./images/sharpa_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Sharpa** as an Embodied Intelligence Researcher, working on multimodal foundation models for dexterous manipulation.
+- *2026*: [**ForeTac**](https://foretac.github.io/), my first-author work on predictive contact guidance for generative robot policies, is now featured on its project website.
+- *2026*: [**PACE**](https://pace-insertion.github.io/) accepted to **CoRL 2026 as an Oral presentation**!
+- *2026.09*: Joined <img src='./images/sharpa_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Sharpa** as an **Embodied Intelligence Research Intern**, working on multimodal foundation models for dexterous manipulation.
 - *2026.06*: One paper (Fast-dVLA) accepted by **ECCV 2026**!
-- *2026.05*: One paper (PACE) submitted to **CoRL 2026**!
 - *2026.04*: Two papers (Fast-dVLA, DFM-VLA) submitted to **ECCV 2026**!
 - *2026.03*: Joined <img src='./images/xiaomi_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Xiaomi Robotics** as an Embodied Intelligence Algorithm Intern.
 - *2026.01*: One paper (FRAPPE) submitted to **RSS 2026**!
@@ -35,6 +38,21 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First Author</div><img src='https://foretac.github.io/static/videos/overview/hero_montage_no_title_poster.jpg' alt="ForeTac real-robot manipulation demonstrations" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ForeTac: Predictive Contact Guidance for Generative Robot Policies](https://foretac.github.io/)
+
+**Shuai Chen — First Author**
+
+[**Project & Demos**](https://foretac.github.io/)
+
+- Predicts future tactile outcomes conditioned on candidate actions and uses contact-quality gradients to guide action generation before execution.
+- Validated on four real-robot tasks, including surface wiping, card swiping, and fragile-object grasping.
+- Improves average task success from **36.3% to 71.3%**, and contact success from **20.0% to 66.3%**, compared with vision-only Diffusion Policy.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/fast-dvla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,12 +71,14 @@ Wenxuan Song\*, Jiayi Chen\*, **Shuai Chen\***, Jingbo Wang, Pengxiang Ding, Han
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026 (Submitted)</div><img src='images/pace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026 · Oral</div><img src='images/pace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies](assets/papers/PACE_v10.pdf)
 
-Zhiyuan Chen, Shixiong Xu, **Shuai Chen**, You Yangwei
+Zhiyuan Chen, Shixiong Xu, **Shuai Chen**, Yangwei You
+
+**Oral presentation at CoRL 2026**
 
 [**Project**](https://pace-insertion.github.io/) \| [**Paper**](assets/papers/PACE_v10.pdf)
 
@@ -105,7 +125,10 @@ Han Zhao†‡, Jingbo Wang†, Wenxuan Song†, **Shuai Chen**, Yang Liu, Yan W
 
 # 💻 Internships
 - *2026.09 - Present*, Embodied Intelligence Research Intern, <img src='./images/sharpa_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Sharpa](https://www.sharpa.com/), Shanghai, China.
-  - Research and development of multimodal visuo-tactile foundation models for dexterous manipulation.
+  - Develop visuo-tactile fusion representations and validate tactile-informed **post-training and mid-training** for dexterous manipulation.
+  - Work on foundation-model **pre-training validation, ablation studies, and Ego data pipelines**.
+  - Evaluate representations and policies through tactile reconstruction, real-robot contact tasks, and zero-shot demonstrations following real-robot mid-training.
+  - [Selected research highlights and demos](https://chenshuai3085.github.io/research-highlights/). The work is not yet publicly released; only selected material is shown.
 - *2026.03.10 - 2026.09.10*, Embodied Intelligence Algorithm Intern, <img src='./images/xiaomi_logo.svg' style="height: 1.2em; vertical-align: -0.15em;"> [Xiaomi Robotics](https://www.mi.com/), Beijing, China.
   - Research on tactile sensing for robotic manipulation policies.
 - *2025.12 - 2026.02*, Embodied Intelligence Algorithm Intern, <img src='./images/cowarobot_logo.png' style="height: 1.2em; vertical-align: -0.15em;"> [COWAROBOT](https://www.cowarobot.com/), Shanghai, China.
