@@ -26,7 +26,7 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 
 # 🔥 News
-- *2026*: [**ForeTac**](https://foretac.github.io/), my first-author work on predictive contact guidance for generative robot policies, is now featured on its project website.
+- *2026.10*: [**ForeTac**](https://arxiv.org/abs/2610.18118), our work on predictive contact guidance for generative robot policies, is available on arXiv.
 - *2026*: [**PACE**](https://pace-insertion.github.io/) accepted to **CoRL 2026 as an Oral presentation**!
 - *2026.09*: Joined <img src='./images/sharpa_logo.svg' style="height: 1.0em; vertical-align: -0.1em;"> **Sharpa** as an **Embodied Intelligence Research Intern**, working on multimodal foundation models for dexterous manipulation.
 - *2026.06*: One paper (Fast-dVLA) accepted by **ECCV 2026**!
@@ -39,18 +39,18 @@ If you are interested in collaborating, please feel free to email me at [chenshu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First Author</div><img src='https://foretac.github.io/static/videos/overview/hero_montage_no_title_poster.jpg' alt="ForeTac real-robot manipulation demonstrations" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/foretac-method.jpg" target="_blank" rel="noopener"><img src='images/foretac-method.jpg' alt="ForeTac method: tactile representation, action-conditioned prediction, contact-quality evaluation, and inference-time guidance" width="100%" loading="lazy"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ForeTac: Predictive Contact Guidance for Generative Robot Policies](https://foretac.github.io/)
+[ForeTac: Predictive Contact Guidance for Generative Robot Policies](https://arxiv.org/abs/2610.18118)
 
-**Shuai Chen — First Author**
+Zhiyuan Chen, **Shuai Chen**, Haoran Zhou, Yizhe Zhao, Kaiyuan Yang, Zhixiang Duan, Shaoqing Xu, Ran Cao, Diyun Xiang, Yangwei You
 
-[**Project & Demos**](https://foretac.github.io/)
+[**Paper**](https://arxiv.org/abs/2610.18118) \| [**Project & Demos**](https://foretac.github.io/)
 
-- Predicts future tactile outcomes conditioned on candidate actions and uses contact-quality gradients to guide action generation before execution.
-- Validated on four real-robot tasks, including surface wiping, card swiping, and fragile-object grasping.
-- Improves average task success from **36.3% to 71.3%**, and contact success from **20.0% to 66.3%**, compared with vision-only Diffusion Policy.
+- Encodes tactile history, predicts candidate actions' future tactile outcomes, and evaluates contact quality learned from successful and failed interactions.
+- Uses contact-quality gradients to guide diffusion and flow-matching action generation **before execution**, while keeping model parameters frozen at inference.
+- Across four real-robot tasks, improves average **task success (SR) from 36.3% to 71.3%** and **contact success (CSR) from 20.0% to 66.3%**, compared with vision-only Diffusion Policy.
 </div>
 </div>
 
